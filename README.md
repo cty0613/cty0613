@@ -5,7 +5,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-![Yocto](https://img.shields.io/badge/Yocto-9B4F96?logo=yocto&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
